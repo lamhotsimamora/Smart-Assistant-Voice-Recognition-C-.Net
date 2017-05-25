@@ -1,0 +1,21 @@
+C:\Users\PDR Studio Computer\AppData\Local\Temporary Projects\VoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.pdb
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Form1.resources
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Properties.Resources.resources
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.exe
+D:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\GoSmart.exe.config
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\GoSmart.exe
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\GoSmart.pdb
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\MetroFramework.Design.dll
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\MetroFramework.dll
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\bin\Debug\MetroFramework.Fonts.dll
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.frmUtama.resources
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.FrmList.resources
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Properties.Resources.resources
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\GoSmart.exe
+F:\Programming Studio\.Net Project\C#\VoiceRecognition\VoiceRecognition\obj\Debug\GoSmart.pdb

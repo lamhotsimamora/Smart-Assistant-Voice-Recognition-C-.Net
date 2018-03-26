@@ -22,3 +22,7 @@ Visual Studio
 
 ## Run Program
 If you want to RUN the application, you can the file executable application in <strong>'./VoiceRecognition/bin/Debug/GoSmart.exe'</strong>
+
+
+## Demo On Youtube
+You can watch demo on youtube https://www.youtube.com/watch?v=iOjg72Dvwr0

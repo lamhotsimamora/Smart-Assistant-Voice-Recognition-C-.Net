@@ -1,5 +1,5 @@
 # Smart-Assistant-Voice-Recognition-C-.Net
- I was create simple assistant on my computer, that was writed and build on C#.Net
+ I was created simple assistant on my computer, that was writed and build on C#.Net
  
 ## Tools
 Visual Studio

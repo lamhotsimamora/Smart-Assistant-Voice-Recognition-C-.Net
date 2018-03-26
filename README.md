@@ -19,3 +19,6 @@ Visual Studio
 4. Set up the net framework to be 4.0
 5. Rebuild project
 5. Done
+
+## Run Program
+If you want to RUN the application, you can the file executable application in <strong>'./VoiceRecognition/bin/Debug/GoSmart.exe'</strong>

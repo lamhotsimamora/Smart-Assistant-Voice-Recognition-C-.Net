@@ -26,3 +26,9 @@ If you want to RUN the application, you can the file executable application in <
 
 ## Demo On Youtube
 You can watch demo on youtube https://www.youtube.com/watch?v=iOjg72Dvwr0
+
+
+## Compatible 
+This application was tested in Windows 7. If you have windows XP, it might not work.
+
+
